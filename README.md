@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Anjar Dwi Hariadi</h1>
-<h3 align="center">Machine Learning Engineer | Flutter Dev</h3>
+<h3 align="center">Machine Learning Engineer | Mobile Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjarmath&label=Profile%20views&color=0e75b6&style=flat" alt="anjarmath" /> </p>
 
