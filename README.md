@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjarmath&label=Profile%20views&color=0e75b6&style=flat" alt="anjarmath" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://anjar.algieba-id.com](https://anjar.algieba-id.com)
+- 👨‍💻 All of my projects are available at [https://anjar.algieba.top](https://anjar.algieba.top)
 
 - 📝 I regularly share educational video on [Youtube](https://www.youtube.com/@an.alphaleonis)
 
